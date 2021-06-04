@@ -24,3 +24,11 @@ static const int failonclear = 1;
 
 /* time in seconds before the monitor shuts down */
 static const int monitortime = 10;
+
+/* default message */
+static const char * message = "Suckless: Software that sucks less.";
+/* text color */
+static const char * text_color = "#ffffff";
+/* text size (must be a valid size) */
+static const char * font_name = "6x13";
+
